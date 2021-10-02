@@ -2,9 +2,11 @@
 
 + zero-base 클린코드 강의 듣고 각자 정리하기
 
-## ✌ 마크다운 문법을 익한다
+## ✌ 마크다운 문법을 익한다 / 삼색볼펜 기법을 익힌다
 
 + https://gist.github.com/ihoneymon/652be052a0727ad59601
+
++ http://egloos.zum.com/agile/v/3684946
 
 ## 👌 일정
 
